@@ -2,7 +2,7 @@
 
 Machine-learning buyer segmentation (K-Means, 4 segments) with an interactive Streamlit dashboard.
 
-**Live dashboard:** (add link after deploying)
+**Live dashboard:** (https://buyer-segmentation-real-estate-hfdhctty53qikfesodwv6f.streamlit.app/)
 
 ## Files
 - `01_exploration.ipynb`: cleaning, feature engineering, clustering, statistical tests
